@@ -80,7 +80,7 @@ export default (props: Props) => {
             <p class="text-lg mb-4">欢迎您成为我们的受邀活动用户！每日签到可免费领取字数,最高单次可领88888字。</p>
             <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">签到</button>
           </div> */}
-          <a href="https://lg8h2izm09.feishu.cn/docx/FhbmdO3LaoSnadxWWy7cpALSnLe" target="_blank" class="fi gap-2 h-8 text-sm op-60  text-yellow-500" rel="noreferrer">如何区分GPT3.5和GPT4.0</a>
+          {/* <a href="https://lg8h2izm09.feishu.cn/docx/FhbmdO3LaoSnadxWWy7cpALSnLe" target="_blank" class="fi gap-2 h-8 text-sm op-60  text-yellow-500" rel="noreferrer">如何区分GPT3.5和GPT4.0</a> */}
           {/* <a href="https://jiyuimg.wzjo2o.com/vision/202401/1705644527905.jpg" target="_blank" class="fi gap-2 h-8 text-sm op-60  text-yellow-500" rel="noreferrer">加群防失联</a> */}
           {/* <p class="fi gap-2 h-8 text-sm op-60  text-yellow-200" >更新:默认模式更新为单次对话模式,如需连续对话,请点击(「新对话」--「设置」--选择「连续对话」) </p> */}
           <a href="https://nav.aichats.site" target="_blank" class="fi gap-2 h-8 text-sm op-60  text-yellow-500" rel="noreferrer">地址发布页</a>
