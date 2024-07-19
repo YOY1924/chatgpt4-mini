@@ -243,16 +243,16 @@ export default (props: Props) => {
             <div>是的，默认使用最新的gpt-4o-mini模型，但你问它是GPT几的时候有可能它并不知道自己是GPT4，可以用一些经典逻辑题区分，如：鲁迅暴打周树人？ 如果能回答到是同一个人就说明是GPT4</div>
           </div>
 
-          <div>
+          {/* <div>
             <div class="font-bold text-gray-700">2.为什么字数一下子消耗完了</div>
             <div>建议每个问题开新对话单独提问！连续对话时为了能理解上下文，每次提问都需要带上前面所有的内容，所以前面内容会重复计算字数; 另外,提问和回答都会计算字数</div>
-          </div>
+          </div> */}
           <div>
-            <div class="font-bold text-gray-700">3.月卡计费次数是否会因连续对话累加</div>
+            <div class="font-bold text-gray-700">2.月卡计费次数是否会因连续对话累加</div>
             <div>月卡计费次数不会因连续对话累加,无论是否连续对话,每个问题只扣除一次</div>
           </div>
           <div>
-            <div class="font-bold text-gray-700">4.为什么发送问题后无任何反应</div>
+            <div class="font-bold text-gray-700">3.为什么发送问题后无任何反应</div>
             <div>如果是一直都无响应, 那可能是兼容性问题, 在太低版本的浏览器中可能无法使用, 电脑上请使用最新谷歌浏览器，手机上可使用夸克浏览器</div>
           </div>
           
